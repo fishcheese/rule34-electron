@@ -1,7 +1,7 @@
 # rule34-electron
-Electron wrapper for Rule 34 with build-in adblocker
+Electron wrapper for Rule 34 with built-in adblocker.
 # Installation
-You don't need to install this program, just download AppImage from [releases](https://github.com/fishcheese/rule34-electron/releases/) and launch it
+You don't need to install this program, just download AppImage from [releases](https://github.com/fishcheese/rule34-electron/releases/) and launch it.
 # Manual building
 You need `npm` and `git` installed on your system to build this program
 
